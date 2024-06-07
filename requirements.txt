@@ -1,0 +1,10 @@
+google-generativeai
+bs4
+faiss-cpu
+PyPDF2
+IPython
+gtts
+SpeechRecognition
+streamlit
+tiktoken
+python-dotenv
